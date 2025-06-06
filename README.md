@@ -1,1 +1,2 @@
-# cultural-dynamics
+# social-dynamics
+ 
